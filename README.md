@@ -1,3 +1,3 @@
 # Google_exo
 Exercices de Jonathan Lutz et Marylis Stenger
-lien du gitpages: https://maryliss.github.io/Google_exercise/
+lien du GitHub Pages: https://maryliss.github.io/Google_exercise/
