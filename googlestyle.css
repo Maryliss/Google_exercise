@@ -1,0 +1,135 @@
+
+body {
+    margin: 0;
+    font-family: arial, sans-serif;
+    font-color: grey;
+}
+
+a{
+    color: grey;
+    text-decoration: none;
+    
+    }
+
+nav {
+    padding: 30px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+    color: #4d4d4d;
+}
+
+
+
+#bouton1 {
+
+    background-color: blue;
+    color: white;
+    margin-left: 5px;
+    height: 30px;
+    width: 130px;
+    border: 0px;
+    font-size: 14px;
+    margin-top: -7px;
+
+}
+nav *{
+    margin-left: 20px 
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: 
+   
+    height: 300px;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+img {
+    width: 272px;
+    height: 92px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8.3%;
+}
+
+#recherche {
+    height: 30px;
+    width: 550px;
+    border-radius: 2px grey;
+    box-shadow: 1px 1px 2px grey;
+    margin-left: 435px;
+    margin-top: 30px;
+}
+
+
+.click {
+    padding: 2px, 2px, 2px, 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+#bouton2, #bouton3{
+    background-color: #F4F7F6;
+    font-size: 14px;
+    color: #5B5C5C;
+    margin: 5px;
+    height: 30px;
+    width: 145px;
+    border: 0px;
+    margin-bottom: 200px;
+
+
+}
+
+#bouton2:hover, #bouton3:hover {
+
+    color: black;
+}
+
+
+footer{
+    background-color: rgba(230, 230, 230, 0.898);
+    padding: 10px;
+    
+}
+
+#conteneur1 {
+    margin: 10px;
+    padding-bottom: 5px;
+    color: grey;
+}
+
+
+#conteneur2{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    border-top: solid 0.5px  rgb(212, 212, 212);
+    padding-top: 20px;
+    
+}
+
+#gauche{
+    display: flex;
+    align-items: flex-start;
+
+}
+
+#droite{
+    display: flex;
+    align-items : flex-end;
+}
+
+div#gauche div a, div#droite div a {
+    margin: 10px;
+}
