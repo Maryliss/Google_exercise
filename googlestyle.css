@@ -1,4 +1,5 @@
 
+/* Baby check your body ! */
 body {
     margin: 0;
     font-family: arial, sans-serif;
@@ -54,7 +55,7 @@ img {
     height: 92px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 8.3%;
+    margin-top: 7%;
 }
 
 #recherche {
@@ -77,6 +78,7 @@ img {
     margin-top: 25px;
 }
 
+/* Des problèmes d'acné sans doute */
 #bouton2, #bouton3{
     background-color: #F4F7F6;
     font-size: 14px;
@@ -133,3 +135,5 @@ footer{
 div#gauche div a, div#droite div a {
     margin: 10px;
 }
+
+ This is the end /*
